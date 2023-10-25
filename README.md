@@ -3,7 +3,7 @@ Hi, I'm Tanuj Thakar
 - :man_student: Purusing Master's of Engineering in Robotics at the University of Maryland - College Park
 - :robot: An aspiring roboticist with interests in Active Perception and Planning
 - :rocket: Curious about autonomous exploration and field robotics
-- 📫 Reach me at: tanuj@umd.edu
+- 📫 Reach me at: tanujthakkar720@gmail.com
 - :link: Connect with me on: 
 
   <a href="https://www.linkedin.com/in/tanujthakkar/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="https://twitter.com/tanujthakkar"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
